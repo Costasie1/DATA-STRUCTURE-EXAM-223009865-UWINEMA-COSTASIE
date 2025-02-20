@@ -4,6 +4,8 @@ Waste Management and Recycling System:
 
 
 on 20 february 2025
+
+
 // this is comment line.all lines beginning with two slash sign(//) are considered comment and do not have any effect on the behavior of the program.
 
  #include <iostream>: line beginning with hash sign (#) are directives for the processor. in this case the directives #include<iostream> tells the processor to include the iostream standard file. this specific file<iostream> includes the declaration of the basic standard input, output libraryin C++ and it is included because its functionality is going to be used later in the program also This includes a library that allows us to use cout (to print messages).
